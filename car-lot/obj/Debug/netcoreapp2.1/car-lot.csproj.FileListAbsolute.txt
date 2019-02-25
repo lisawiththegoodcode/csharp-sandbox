@@ -1,0 +1,11 @@
+C:\car-lot\bin\Debug\netcoreapp2.1\car-lot.deps.json
+C:\car-lot\bin\Debug\netcoreapp2.1\car-lot.runtimeconfig.json
+C:\car-lot\bin\Debug\netcoreapp2.1\car-lot.runtimeconfig.dev.json
+C:\car-lot\bin\Debug\netcoreapp2.1\car-lot.dll
+C:\car-lot\bin\Debug\netcoreapp2.1\car-lot.pdb
+C:\car-lot\obj\Debug\netcoreapp2.1\car-lot.csprojAssemblyReference.cache
+C:\car-lot\obj\Debug\netcoreapp2.1\car-lot.csproj.CoreCompileInputs.cache
+C:\car-lot\obj\Debug\netcoreapp2.1\car-lot.AssemblyInfoInputs.cache
+C:\car-lot\obj\Debug\netcoreapp2.1\car-lot.AssemblyInfo.cs
+C:\car-lot\obj\Debug\netcoreapp2.1\car-lot.dll
+C:\car-lot\obj\Debug\netcoreapp2.1\car-lot.pdb
